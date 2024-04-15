@@ -1,0 +1,16 @@
+.con{
+    margin: 50px;
+    justify-content: center;
+    display: flex;
+}
+.button{
+    padding: 20px;
+    display: flex;
+}
+.btn{
+    margin: 10px 10px 10px 0;
+}
+.table{
+    justify-content: center;
+    max-width: 900px;
+}
